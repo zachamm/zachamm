@@ -1,6 +1,6 @@
-> *"Do you have any idea how stupid we are? Don't underestimate us."*
+> "Do you have any idea how stupid we are? Don't underestimate us."
 
-Generalist, tinkerer, and curious mind. I like taking apart complex ideas, figuring out how things work, and building cool projects without sticking to a single box or domain.
+Generalist, tinkerer. I like taking things apart to see how they work, then building something out of what I find. Not big on staying in one lane.
 
 <img width="384" height="216" alt="shogunsamacan" src="https://github.com/user-attachments/assets/9519033f-2db6-4279-951b-0e73b6cbcb41" />
 
@@ -8,9 +8,9 @@ Generalist, tinkerer, and curious mind. I like taking apart complex ideas, figur
 
 ### What I'm into
 
-* 🔍 **Exploring systems:** Digging into business, strategy, emerging tech, and how different industries overlap.
-* 🧪 **Hands-on experimenting:** Testing out ideas, learning by doing, and trying new tools to see what sticks.
-* 💡 **Generalist mindset:** Jack of all trades. I care more about solving interesting problems and connecting dots than locking myself into a specific lane.
+I spent the last couple of years on the business side of an early-stage company: partnerships, incentive design, the work that gets a product from launch to real usage. That taught me more about how people adopt new systems than about how those systems get built. It's a skill set that travels well outside any one industry.
+
+I learn by doing: pull things apart and see what sticks. I'd rather chase an interesting problem than settle into a specialty.
 
 ---
 
